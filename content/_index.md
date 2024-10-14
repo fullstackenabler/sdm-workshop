@@ -1,10 +1,10 @@
 ---
-title: "AWS Modernization Workshop Base Template" # MODIFY THIS TO BE THE TITLE OF YOUR WORKSHOP
+title: "StrongDM Workshop" # MODIFY THIS TO BE THE TITLE OF YOUR WORKSHOP
 chapter: true
 weight: 1
 ---
 
-# AWS Modernization Workshop Base Template <!-- CHANGE THIS TO BE THE TITLE OF YOUR WORKSHOP -->
+# StrongDM Workshop <!-- CHANGE THIS TO BE THE TITLE OF YOUR WORKSHOP -->
 <br>
 ![Partner Logo](/images/AWS_Logo.png)  <!-- ADD YOUR PARTNER LOGO HERE USING THE INSTRUCTIONS BELOW -->
 <br>
