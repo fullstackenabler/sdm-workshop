@@ -17,5 +17,5 @@ This workshop is a complement to the StrongDM 101 course which is designed to pr
 **REMOVE:** Every introduction page should include the following warning label.
 
 {{% notice warning %}}
-The examples and sample code provided in this workshop are intended to be consumed as instructional content. These will help you understand how various AWS services can be architected to build a solution while demonstrating best practices along the way. These examples are not intended for use in production environments.
+The examples and sample code provided in this workshop are intended to be consumed as instructional content. These will help you understand how StrongDM components, and resources, can be deployed on AWS. These examples are not intended for use in production environments.
 {{% /notice %}}
