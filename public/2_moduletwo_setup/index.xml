@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Self-Guided Workshop Setup on English</title>
+    <link>//localhost:1313/2_moduletwo_setup.html</link>
+    <description>Recent content in Self-Guided Workshop Setup on English</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="//localhost:1313/2_moduletwo_setup/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Self-Guided Setup Instructions</title>
+      <link>//localhost:1313/2_moduletwo_setup/21_awsaccountsetup.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/2_moduletwo_setup/21_awsaccountsetup.html</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;h1 id=&#34;aws-account-setup----modify-this-heading---&#34;&gt;AWS Account Setup &lt;!-- raw HTML omitted --&gt;&lt;/h1&gt;&#xA;&lt;h2 id=&#34;submodule-one-heading----modify-this-subheading---&#34;&gt;Submodule One Heading &lt;!-- raw HTML omitted --&gt;&lt;/h2&gt;&#xA;&lt;p&gt;This paragraph block can be used to explain how to setup an AWS account. Example content guidance can be found at the bottom of the page.&lt;/p&gt;&#xA;&#xD;&#xA;&lt;div class=&#34;notices info&#34; &gt;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;/div&gt;&#xD;&#xA;&#xA;&lt;h3 id=&#34;next-section-heading----modify-this-heading---&#34;&gt;Next Section Heading &lt;!-- raw HTML omitted --&gt;&lt;/h3&gt;&#xA;&lt;p&gt;This paragraph block can optionally be utilized to lead into the next section of the workshop.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Create a Workspace</title>
+      <link>//localhost:1313/2_moduletwo_setup/22_createaworkspace.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/2_moduletwo_setup/22_createaworkspace.html</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;h1 id=&#34;set-up-the-workspace----modify-this-subheading---&#34;&gt;Set Up The Workspace &lt;!-- raw HTML omitted --&gt;&lt;/h1&gt;&#xA;&lt;h2 id=&#34;submodule-two-heading----modify-this-subheading---&#34;&gt;Submodule Two Heading &lt;!-- raw HTML omitted --&gt;&lt;/h2&gt;&#xA;&lt;p&gt;This paragraph block can be used to explain how to create a workspace if necessary. Example content guidance can be found at the bottom of the page.&lt;/p&gt;&#xA;&#xD;&#xA;&lt;div class=&#34;notices info&#34; &gt;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;/div&gt;&#xD;&#xA;&#xA;&lt;h3 id=&#34;next-section-heading----modify-this-heading---&#34;&gt;Next Section Heading &lt;!-- raw HTML omitted --&gt;&lt;/h3&gt;&#xA;&lt;p&gt;This paragraph block can optionally be utilized to lead into the next section of the workshop.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Create an IAM Role for your workspace</title>
+      <link>//localhost:1313/2_moduletwo_setup/23_createaniamroleforyourworkspace.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/2_moduletwo_setup/23_createaniamroleforyourworkspace.html</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;h1 id=&#34;create-an-iam-role-for-your-workspace----modify-this-subheading---&#34;&gt;Create an IAM Role for your workspace &lt;!-- raw HTML omitted --&gt;&lt;/h1&gt;&#xA;&lt;h2 id=&#34;submodule-three-heading----modify-this-subheading---&#34;&gt;Submodule Three Heading &lt;!-- raw HTML omitted --&gt;&lt;/h2&gt;&#xA;&lt;p&gt;This paragraph block can be used to explain how to create a workspace if necessary. Example content guidance can be found at the bottom of the page.&lt;/p&gt;&#xA;&#xD;&#xA;&lt;div class=&#34;notices info&#34; &gt;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;/div&gt;&#xD;&#xA;&#xA;&lt;h3 id=&#34;next-section-heading----modify-this-heading---&#34;&gt;Next Section Heading &lt;!-- raw HTML omitted --&gt;&lt;/h3&gt;&#xA;&lt;p&gt;This paragraph block can optionally be utilized to lead into the next section of the workshop.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Attach IAM Role</title>
+      <link>//localhost:1313/2_moduletwo_setup/24_attachiamrole.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/2_moduletwo_setup/24_attachiamrole.html</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;h1 id=&#34;attaching-an-iam-role&#34;&gt;Attaching an IAM Role&lt;/h1&gt;&#xA;&lt;h2 id=&#34;submodule-four-heading----modify-this-subheading---&#34;&gt;Submodule Four Heading &lt;!-- raw HTML omitted --&gt;&lt;/h2&gt;&#xA;&lt;p&gt;This paragraph block can be used to explain how to attach an IAM role if necessary. Example content guidance can be found at the bottom of the page.&lt;/p&gt;&#xA;&#xD;&#xA;&lt;div class=&#34;notices info&#34; &gt;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;/div&gt;&#xD;&#xA;&#xA;&lt;h3 id=&#34;next-section-heading----modify-this-heading---&#34;&gt;Next Section Heading &lt;!-- raw HTML omitted --&gt;&lt;/h3&gt;&#xA;&lt;p&gt;This paragraph block can optionally be utilized to lead into the next section of the workshop.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Configure workshop specific requirements</title>
+      <link>//localhost:1313/2_moduletwo_setup/25_configureworkshopspecificrequirements.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/2_moduletwo_setup/25_configureworkshopspecificrequirements.html</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;h1 id=&#34;configuring-workshop-specific-requirements----modify-this-heading-if-necessary---&#34;&gt;Configuring Workshop Specific Requirements &lt;!-- raw HTML omitted --&gt;&lt;/h1&gt;&#xA;&lt;h2 id=&#34;submodule-five-heading----modify-this-subheading---&#34;&gt;Submodule Five Heading &lt;!-- raw HTML omitted --&gt;&lt;/h2&gt;&#xA;&lt;p&gt;This paragraph block can be used to explain how to configure any specific workshop requirements if necessary. Example content guidance can be found at the bottom of the page.&lt;/p&gt;&#xA;&#xD;&#xA;&lt;div class=&#34;notices info&#34; &gt;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;/div&gt;&#xD;&#xA;&#xA;&lt;h3 id=&#34;next-section-heading----modify-this-heading---&#34;&gt;Next Section Heading &lt;!-- raw HTML omitted --&gt;&lt;/h3&gt;&#xA;&lt;p&gt;This paragraph block can optionally be utilized to lead into the next section of the workshop.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
