@@ -1,5 +1,5 @@
 ---
-title: "AWS Modernization Workshop Base Template" # MODIFY THIS TO BE THE TITLE OF YOUR WORKSHOP
+title: "StrongDM Workshop" # MODIFY THIS TO BE THE TITLE OF YOUR WORKSHOP
 chapter: true
 weight: 1
 ---
